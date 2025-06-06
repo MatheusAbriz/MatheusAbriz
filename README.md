@@ -1,4 +1,4 @@
-## Olá! Meu nome é Matheus Abriz, estudante entusiasta do Desenvolvimento Web, com foco no Front-End (React/Tailwind/ShadCN/Springboot).
+## Olá! Sou Matheus Abriz, estudante entusiasta do Desenvolvimento Web, <br> com foco no Front-End (React/Tailwind/ShadCN/Springboot).
 
 - 🔭 A procura de uma oportunidade de estágio em TI!
 - 🌱 Cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema.
