@@ -1,8 +1,7 @@
 ## Olá! Sou Matheus Abriz, estudante entusiasta do Desenvolvimento Web, <br> com foco no Front-End (React/Tailwind/ShadCN/Springboot).
 
-- 🔭 A procura de uma oportunidade de estágio em TI!
+- 🔭 Desenvolvedor Front-End Jr. na TGID - Transform and Grow In DIgital
 - 🌱 Cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema.
-- 💼 Acesse meu portfólio: https://matheusabriz.netlify.app/
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="matheus-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
